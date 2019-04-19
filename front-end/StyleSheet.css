@@ -1,0 +1,124 @@
+.background{
+	background: url(/HIRAGANA/front-end/images/background.png);
+	background-position: center top;
+}
+
+.intro {
+  text-align: center;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 65%;
+	padding: 5px 18px;
+  background-color: #f1f1f1;
+  outline-style: solid;
+  outline-width: thin;
+	outline-color: black;
+	background-color: white;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+	filter: drop-shadow(5px 5px 5px #222);
+}
+
+input {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input:focus {
+    border-color:#333;
+}
+
+.login {
+  display: inline-block;
+  background-color: #777;
+  font-family: Arial, sans-serif;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 0 auto;
+}
+
+img{
+	outline-style: solid;
+	outline-color: black;
+	background-color: white;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+	filter: drop-shadow(5px 5px 5px #222);
+	width: 150px;
+	height: 150px;  
+}
+
+.collapsible {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 70%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 20px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+	text-align: center;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 65%;
+	padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+/* HIDE RADIO */
+.imageRadio { 
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* IMAGE STYLES */
+.imageRadio + img {
+  cursor: pointer;
+}
+
+/* CHECKED STYLES */
+.imageRadio:checked + img {
+  outline: 2px solid #f00;
+}
+
+.submitButton {
+  background-color: #777;
+  font-family: Arial, sans-serif;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 0 auto;
+  display: block;
+}
+
+.submitButton:hover {
+  background: #555;
+}
+
+.required {
+  color: red;
+}

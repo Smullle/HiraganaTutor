@@ -1,0 +1,61 @@
+a
+ya /HIRAGANA/images/ya.png d
+ta /HIRAGANA/images/ta.png b
+a  /HIRAGANA/images/a.png  a
+na /HIRAGANA/images/na.png b
+wa /HIRAGANA/images/wa.png a
+ha /HIRAGANA/images/ha.png d
+sa /HIRAGANA/images/sa.png b
+ka /HIRAGANA/images/ka.png b
+ma /HIRAGANA/images/ma.png c
+ra /HIRAGANA/images/ra.png a
+
+e 
+se /HIRAGANA/images/se.png b
+e  /HIRAGANA/images/e.png  d
+me /HIRAGANA/images/me.png c
+he /HIRAGANA/images/he.png a
+n  /HIRAGANA/images/n.png  b
+ke /HIRAGANA/images/ke.png c
+te /HIRAGANA/images/te.png a
+ne /HIRAGANA/images/ne.png b
+me /HIRAGANA/images/me.png b
+re /HIRAGANA/images/re.png d
+
+i
+i  /HIRAGANA/images/i.png  c
+yi /HIRAGANA/images/yi.png d
+ni /HIRAGANA/images/ni.png a
+ki /HIRAGANA/images/ki.png c
+si /HIRAGANA/images/si.png b
+mi /HIRAGANA/images/mi.png d
+ri /HIRAGANA/images/ri.png c
+ni /HIRAGANA/images/ni.png a
+i  /HIRAGANA/images/i.png  b
+ki /HIRAGANA/images/ki.png a
+
+o
+no /HIRAGANA/images/o.png  b
+ro /HIRAGANA/images/ro.png d
+o  /HIRAGANA/images/o.png  a
+to /HIRAGANA/images/to.png c
+no /HIRAGANA/images/no.png c
+ho /HIRAGANA/images/ho.png d
+n  /HIRAGANA/images/n.png  b
+mo /HIRAGANA/images/mo.png a
+ko /HIRAGANA/images/ko.png c
+so /HIRAGANA/images/so.png b
+
+u
+wu /HIRAGANA/images/hu.png c
+yu /HIRAGANA/images/yu.png d
+u  /HIRAGANA/images/u.png  c
+ku /HIRAGANA/images/ku.png b
+nu /HIRAGANA/images/nu.png a
+ru /HIRAGANA/images/ru.png b
+yu /HIRAGANA/images/yu.png d
+tu /HIRAGANA/images/tu.png c
+mu /HIRAGANA/images/mu.png d
+su /HIRAGANA/images/su.png a
+
+
