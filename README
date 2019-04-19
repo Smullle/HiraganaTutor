@@ -1,3 +1,5 @@
+A single page web application for learning Hiragana, app contains 5 quizzes and login/registration functionality.
+
 Main php page is as follows
 http://localhost/HIRAGANA/front-end/hiragana.php
 
